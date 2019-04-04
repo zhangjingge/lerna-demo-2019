@@ -1,6 +1,6 @@
 {
-  "name": "test2019-jgzhang",
-  "version": "0.0.5",
+  "name": "modelb-2019jgzhang",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "jgzhang",
   "license": "ISC",
   "dependencies": {
-    "cross-env": "^5.2.0"
+    "cross-env": "^5.2.0",
+    "test2019-jgzhang": "^0.0.5"
   }
 }
