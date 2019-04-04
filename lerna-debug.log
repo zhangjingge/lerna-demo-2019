@@ -1,5 +1,5 @@
-37 error Error: Command failed: git tag v0.0.3 -m v0.0.3
-37 error fatal: tag 'v0.0.3' already exists
+37 error Error: Command failed: git tag v0.0.4 -m v0.0.4
+37 error fatal: tag 'v0.0.4' already exists
 37 error
 37 error     at makeError (D:\singleSpaPro\node_modules\execa\index.js:174:9)
 37 error     at Promise.all.then.arr (D:\singleSpaPro\node_modules\execa\index.js:278:16)
