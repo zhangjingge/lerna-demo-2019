@@ -1,5 +1,5 @@
 {
-  "name": "modelb-2019jgzhang",
+  "name": "servenpm-testjg",
   "version": "0.0.6",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "dependencies": {
     "cross-env": "^5.2.0",
     "test2019-jgzhang": "^0.0.6"
-  }
+  },
+  "gitHead": "6173cf46169526d23b9aa55428c36df2fa4d270a"
 }
